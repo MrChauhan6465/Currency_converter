@@ -1,7 +1,7 @@
 # Currency_converter
 its a currency converter program which is written in python programming language .
 
-#Screenshots
+## Screenshots
 
 ![image](https://user-images.githubusercontent.com/89354259/188494990-59352640-f0ba-4a3c-b9d1-c636c570319c.png)
 
